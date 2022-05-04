@@ -12,6 +12,8 @@ const Nav = () => {
             <li className='navbar__items'>Logout</li>
         </ul>
     </div>
+
+    
   )
 }
 
