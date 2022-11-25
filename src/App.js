@@ -4,8 +4,7 @@ import Header from './components/header/Header'
 import Nav from './components/nav/Nav'
 
 
-dsqdqsdqsd
-qsd
+
 
 /* key = 34780cfa */
 
